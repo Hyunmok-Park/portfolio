@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Grandstander&display=swap');
 
 body {
-	background-image: url("../res/web.jpg");
+	background-image: url("../res/web_white.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -16,7 +16,7 @@ html {
 	display: table;
 	width: 100%;
 	height: -webkit-fill-available;
-	background-color: rgba(0, 0, 0, 0.4);
+	background-color: rgba(0, 0, 0, 0);
 }
 
 .panel-content {
