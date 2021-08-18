@@ -50,6 +50,7 @@ body, html {
 }
 
 .panel-content-inner {
+	background-image: "../res/web_white.jpg");
 	max-width: 450px;
 	max-height: 250px;
 	border-radius: 0px;
