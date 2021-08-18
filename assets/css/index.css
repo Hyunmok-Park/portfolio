@@ -9,13 +9,13 @@ body, html {
 }
 
 .profile-image {
-	width: 120px;
-	height: 120px;
+	width: 150px;
+	height: 150px;
 	position: relative;
 	top: 20px;
   	left: 20px;
 	border: 1px solid rgba(255, 255, 255, 0.7);
-	border-radius: 100%;
+	border-radius: 10%;
 }
 
 .profile-title {
