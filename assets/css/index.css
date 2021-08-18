@@ -40,7 +40,8 @@ body, html {
 }
 
 .panel-content-inner {
-	max-width: 650px;
+	max-width: 500px;
+	max-height: 250px;
 }
 
 .button {
