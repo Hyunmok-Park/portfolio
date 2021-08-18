@@ -14,7 +14,7 @@ body, html {
 	width: 140px;
 	height: 140px;
 	position: relative;
-	border: 1px solid rgba(255, 255, 255, 0.7);
+	border: 2px solid rgba(0, 0, 0, 0.7);
 	border-radius: 10%;
 }
 
