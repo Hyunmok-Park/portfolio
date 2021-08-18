@@ -9,8 +9,8 @@ body, html {
 }
 
 .profile-image {
-	width: 150px;
-	height: 150px;
+	width: 140px;
+	height: 140px;
 	position: relative;
 	border: 1px solid rgba(255, 255, 255, 0.7);
 	border-radius: 10%;
