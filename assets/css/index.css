@@ -30,7 +30,7 @@ body, html {
 }
 
 .panel-menu {
-	max-width: 50px;
+	max-width: 150px;
 	margin: 0 auto;
 	list-style: none;
 }
