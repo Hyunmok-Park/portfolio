@@ -5,7 +5,7 @@ body, html {
 }
 
 .panel-content-inner {
-	background-image: url("../res/web_white.jpg");
+	background-image: url("../res/watercolor_paper.jpg");
 	/*background-color: rgba(255, 255, 255, 1);*/
 	border: 1px solid rgba(0, 0, 0, 0.7);
 	border-right: 0%;
@@ -50,7 +50,7 @@ body, html {
 }
 
 .panel-content-inner {
-	background-image: url("../res/web_white.jpg");
+	background-image: url("../res/watercolor_paper.jpg");
 	max-width: 450px;
 	max-height: 250px;
 	border-radius: 0px;
