@@ -5,12 +5,12 @@ body, html {
 }
 
 .panel-content-inner {
-	background-color: rgba(255, 255, 255, 0.2);
+	background-color: rgba(0,0,0, 0.2);
 }
 
 .profile-image {
-	width: 150px;
-	height: 150px;
+	width: 100px;
+	height: 100px;
 	position: relative;
 	border: 1px solid rgba(255, 255, 255, 0.7);
 	border-radius: 100%;
@@ -18,7 +18,7 @@ body, html {
 
 .profile-title {
 	color: rgba(255, 255, 255, 0.9);
-	font-family: "Times New Roman", Times, serif;
+	font-family: 'Grandstander', cursive;
 	font-size: 3rem;
 	margin-bottom: 0;
 	margin-top: 1rem;
