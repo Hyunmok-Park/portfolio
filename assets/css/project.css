@@ -20,7 +20,7 @@
 .project-header-title {
     display: table-cell;
     color: #000;
-	font-family: 'Abril Fatface', cursive !important;
+	font-family: "Times New Roman", Times, serif;
 	font-size: 50px;
 	font-weight: 800;
 	margin-bottom: 0 !important;
@@ -34,7 +34,7 @@
 	border-radius: 16px;
 	padding: 10px;
     margin: 15px 5px;
-    font-family: 'Archivo', sans-serif;
+    font-family: "Times New Roman", Times, serif;
     font-size: 1.2rem;
 }
 
@@ -65,7 +65,7 @@
 	height: 100%;
 }
 .name {
-    font-family: 'Abril Fatface', cursive !important;
+    font-family: "Times New Roman", Times, serif;
 	font-size: 1.8rem !important;
 	font-weight: 750;
 }
