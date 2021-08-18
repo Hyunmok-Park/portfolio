@@ -52,6 +52,7 @@ body, html {
 	max-width: 450px;
 	max-height: 250px;
 	border-radius: 0px;
+	background-image: "assets/res/watercolor_paper.jpg";
 }
 
 .button {
