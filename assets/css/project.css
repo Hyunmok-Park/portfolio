@@ -22,7 +22,7 @@
 
 .project-header-title {
     display: table-cell;
-    color: #000;
+    color: rgba(255,255,255,0);
     font-family: "Times New Roman", Times, serif;
     font-size: 50px;
     font-weight: 800;
