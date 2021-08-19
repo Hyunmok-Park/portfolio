@@ -101,8 +101,10 @@
 .language .item .item-content-list .language-image {
 	width: 60px;
 	height: 50px;
-  margin-right: 10px;
-  margin-left: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	border: 2px solid rgba(0, 0, 0, 0.7);
+	border-radius: 10px;
 }
 
 .language .item .item-content-list .level {
