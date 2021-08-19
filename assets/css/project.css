@@ -1,10 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Archivo&family=Grandstander:wght@100&family=IBM+Plex+Serif:wght@100&family=Xanh+Mono&display=swap");
 
 .panel-content-inner {
-	background-color: rgba(255, 255, 255, 1);
-	max-width: 90%;
-	min-width: 80%;
-    height: auto;
+	background-image: url("../res/watercolor_paper.jpg");
+	max-width: 50%;
+	min-width: 50%;
+	margin-top: 20px;
+	height: auto;
+	border-radius: 0px;
 }
 
 .download {
