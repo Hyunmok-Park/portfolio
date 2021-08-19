@@ -1,82 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Grandstander&display=swap');
-
-body {
-	background-image: url("../res/web_white.jpg");
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	font-family: "Times New Roman", Times, serif;
-}
-
-html {
-	line-height: 1.5;
-}
-
-.panel-main {
-	display: table;
-	width: 100%;
-	height: -webkit-fill-available;
-	background-color: rgba(0, 0, 0, 0);
-}
-
-.panel-content {
-	display: table-cell;
-	vertical-align: middle;
-}
-
-.panel-content-inner {
-	margin: 0 auto;
-	padding: 20px;
-	border-radius: 15px;
-	transition: box-shadow .25s;
-	box-shadow: 0 7px 7px 0 rgba(0, 0, 0, 0.8), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
-}
-
-.button {
-	background-color: rgba(225, 239, 240, 1);
-    list-style: none;
-	padding: 10px;
-	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
-	color: #000000;
-	font-weight: bold;
-	text-decoration: none;
-	letter-spacing: 1px;
-}
-
-.button:hover {
-	background-color: rgba(65, 71, 71, 1);
-	color: #fff;
-}
-
-.button i {
-	font-size: 20px;
-}
-
-.button-sm {
-	display: inline-block;
-	width: 5%;
-	text-align: center;
-	cursor: pointer;
-	border-radius: 5%;
-}
-
-
-
-
-
-
-
-
-
-
-
-
 @import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Archivo&family=Grandstander:wght@100&family=IBM+Plex+Serif:wght@100&family=Xanh+Mono&display=swap");
 
 .panel-content-inner {
-	background-color: rgba(255, 255, 255, 1);
+	background-image: url("../res/watercolor_paper.jpg");
 	max-width: 50%;
 	min-width: 50%;
+	margin-top: 20px;
 	height: auto;
 }
 
